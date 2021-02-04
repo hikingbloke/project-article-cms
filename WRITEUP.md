@@ -42,6 +42,6 @@ App Service is suitable for my solution because we do not have requirement for h
 ### Assess app changes that would change your decision.
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
-If I have to provide an availability of (3 9's) 99.9 then I would definitely go with Virtual Machine with Premium SSD
-If any of my services needed to be stateful then I would have gone with Virtual Machines
-Also If I need full control of the web server then I would have gone with Virtual Machines.
+- *If I have to provide an availability of (3 9's) 99.9 then I would definitely go with Virtual Machine with Premium SSD
+- *If any of my services needed to be stateful then I would have gone with Virtual Machines
+- *Also If I need full control of the web server then I would have gone with Virtual Machines.
